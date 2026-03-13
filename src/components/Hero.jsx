@@ -1,4 +1,4 @@
-import developer from "../assets/developer.png";
+import developer from "../assets/developer.jpeg";
 
 export default function Hero() {
   return (
